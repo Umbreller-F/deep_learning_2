@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f",
+        "activityBar.background": "#4E2008",
+        "titleBar.activeBackground": "#6D2D0B",
+        "titleBar.activeForeground": "#FEF9F6"
+    },
+    "notebook.output.textLineLimit": 3000
+}
