@@ -4,9 +4,9 @@
 
 ### 使用数据
 
-- [IMDB数据集](http://ai.stanford.edu/~amaas/data/sentiment/)
+- Large Movie Review Dataset: [IMDB数据集](http://ai.stanford.edu/~amaas/data/sentiment/)
 
-- 使用预训练词向量模型glove.6B.100d
+- 使用预训练词向量模型: [glove.6B.100d.txt](https://www.kaggle.com/datasets/danielwillgeorge/glove6b100dtxt)
 
 ### 网络模型
 
